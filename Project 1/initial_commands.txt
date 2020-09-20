@@ -1,0 +1,15 @@
+The following commands outline all the code I inputted for section 2 of assignment 1
+
+
+>git clone https://github.com/XDurham/Computational-Social-Science-Projects.git
+mkdir "Project 1"
+cd "Project 1" 		<----My comp couldn't find this w/o being a string
+touch initial_commands.txt
+vim initial commands.txt 	
+	Press "i" to edit and insert data
+	Press "esc" to stop editing
+	Enter ":wq" to close the .txt file
+git add initial_commands.txt
+git commit -m "add initial_commands.txt to repo"
+git push
+
