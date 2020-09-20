@@ -5,7 +5,7 @@ The following commands outline all the code I inputted for section 2 of assignme
 mkdir "Project 1"
 cd "Project 1" 		<----My comp couldn't find this w/o being a string
 touch initial_commands.txt
-vim initial commands.txt 	
+vim initial_commands.txt 	
 	Press "i" to edit and insert data
 	Press "esc" to stop editing
 	Enter ":wq" to close the .txt file
